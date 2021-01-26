@@ -12,5 +12,3 @@ Today, I spend most of my free time contributing to Open Source projects, making
 ## Nerd stats
 
 ![Italo's github stats](https://github-readme-stats.vercel.app/api?username=italolelis&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italolelis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
