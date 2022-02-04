@@ -1,10 +1,10 @@
 ### Hi there 👋 💻
 
-I’m a Brazilian living in Berlin, Germany. Currently working as CTO @Lykon. Previously, I worked @N26 and @HelloFresh mostly doing things in Go. I enjoy working with distributed systems and solving complex problems. Go has been my language of choice since 2015 to help me achieve these things while having a great deal of fun. 
+I'm Italo, and I'm based in Berlin, Germany. Currently working as VP of Platform Engineering @urbansportsclub. Previously, I was heading the technology department as CTO @Lykon. I also worked @N26 and @HelloFresh, mainly growing outstanding teams, fostering a good engineering culture, and doing things in [Go](https://go.dev/). I enjoy working with distributed systems and solving complex problems. Go has been my language of choice since 2015 to help me achieve these things while having a great deal of fun.
 
-Today, I spend most of my free time contributing to Open Source projects, making lots of coffee and enjoying life at its best.
+Today, I spend most of my free time as a volunteer mentor @techstars and as a volunteer teacher @ReDI-School, making lots of coffee and enjoying life at its best.
 
-- 💬 Ask me about Distributed Systems, Go, and Coffee
+- 💬 Ask me about Distributed Systems, Go, and coffee
 - 📫 How to reach me: [@italolelis](https://twitter.com/italolelis)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play D&D
+- ⚡ Fun fact: I love to play D&D and Airplanes ✈️
