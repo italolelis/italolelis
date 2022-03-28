@@ -6,9 +6,9 @@ Currently working as VP of Platform Engineering @urbansportsclub. Previously, I 
 
 Today, I spend most of my free time as a volunteer mentor @techstars and as a volunteer teacher @ReDI-School, making lots of coffee and enjoying life at its best.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/italolelis)
+[![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/italolelis)
+[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/italolelis)
 
 - 💬 Ask me about Distributed Systems, Go, and coffee
 - 📫 How to reach me: [@italolelis](https://twitter.com/italolelis)
