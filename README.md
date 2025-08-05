@@ -4,17 +4,15 @@
 
 ### Hello 👋 I’m Italo Vietro
 
-I'm currently the VP of Platform at Babbel. I enjoy finding practical solutions to complex problems and helping teams build reliable, scalable technology. My days are about collaboration, innovation, and ensuring our platform meets users’ needs.
+I’m a seasoned engineering leader and currently Head of Engineering at Parloa, architecting the core services behind Europe’s leading agentic-AI customer-service platform—turning complex real-time conversations into fast, reliable experiences for millions of users daily. 
 
-Before Babbel, I served as VP of Engineering at Urban Sports Club. It was a rewarding experience working with a talented team, establishing a TechHub in Spain, and exploring ways to make our operations more efficient. I focused on setting clear goals and improving our hiring processes—simple, steady efforts that support bigger results.
+My journey here began well before the first bot greeted a customer. As VP of Platform at Babbel I rebuilt a global learning engine that quietly serves language lessons across the globe. I then served as VP of Engineering at Urban Sports Club, raising a brand-new TechHub in Spain, tripling delivery cadence and replacing ad-hoc heroics with transparent goals and steady, compounding gains. 
 
-Earlier in my career, I was CTO at Lykon, where I built a team and developed a platform with over 40 microservices. It taught me a lot about making transparent technical decisions and fostering robust engineering habits.
+Earlier I was CTO at Lykon, bootstrapping a 40-plus-microservice health-tech stack from scratch while reinforcing the habit of open RFCs and blameless post-mortems. At N26 I led 40 engineers across core banking systems, shifting sign-offs to squad ownership and instilling "you build it, you run it, you own it" as everyday culture. 
 
-At N26, I led a team of 40 engineers working on our core banking systems. We aimed to make decision-making more decentralized and improve operational efficiency, which was a meaningful challenge.
+Those legs of the trip began at HelloFresh, where I advanced from Senior Software Engineer to Head of Engineering. Together with an incredible crew I shepherded the leap from monolithic PHP to cloud-native Go services, cracked the 100-engineer scale and let Fridays remain "friday-beers" days—not crunch sessions.
 
-My journey in Germany started at HelloFresh, where I grew from a Senior Software Engineer to Head of Engineering. Transitioning to microservices, shifting from PHP to Go, and scaling the team were significant milestones, and I appreciated the collaborative spirit that made it possible.
-
-My tech story began back in Brazil, where I spent over seven years learning and growing from an entry-level developer into someone who could lead projects and inspire teams. That foundation continues to fuel my drive for learning and sharing.
+All of it arcs back to my formative years in Brazil: seven years that carried me from junior enthusiast to technical lead, and taught me that the best systems and the best teams thrive when knowledge travels faster than code. 
 
 ## Public Speaking
 * [From cost to impact: Leading through infrastructure investment decisions](https://leaddev.com/leadership/from-cost-to-impact-leading-through-infrastructure-investment-decisions) @ LeadingEng Berlin 2024, Berlin, Germany
