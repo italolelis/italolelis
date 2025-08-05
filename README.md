@@ -4,13 +4,13 @@
 
 ### Hello 👋 I’m Italo Vietro
 
-I’m a seasoned engineering leader and currently Head of Engineering at Parloa, architecting the core services behind Europe’s leading agentic-AI customer-service platform—turning complex real-time conversations into fast, reliable experiences for millions of users daily. 
+I’m a seasoned engineering leader and currently Head of Engineering at [Parloa](https://parloa.com), architecting the core services behind Europe’s leading agentic-AI customer-service platform—turning complex real-time conversations into fast, reliable experiences for millions of users daily. 
 
-My journey here began well before the first bot greeted a customer. As VP of Platform at Babbel I rebuilt a global learning engine that quietly serves language lessons across the globe. I then served as VP of Engineering at Urban Sports Club, raising a brand-new TechHub in Spain, tripling delivery cadence and replacing ad-hoc heroics with transparent goals and steady, compounding gains. 
+My journey here began well before the first bot greeted a customer. As VP of Platform at [Babbel](https://babbel.com) I rebuilt a global learning engine that quietly serves language lessons across the globe. I then served as VP of Engineering at [Urban Sports Club](https://urbansportsclub.com), raising a brand-new TechHub in Spain, tripling delivery cadence and replacing ad-hoc heroics with transparent goals and steady, compounding gains. 
 
-Earlier I was CTO at Lykon, bootstrapping a 40-plus-microservice health-tech stack from scratch while reinforcing the habit of open RFCs and blameless post-mortems. At N26 I led 40 engineers across core banking systems, shifting sign-offs to squad ownership and instilling "you build it, you run it, you own it" as everyday culture. 
+Earlier I was CTO at [Lykon](https://lykon.com), bootstrapping a 40-plus-microservice health-tech stack from scratch while reinforcing the habit of open RFCs and blameless post-mortems. At [N26](https://n26.com) I led 40 engineers across core banking systems, shifting sign-offs to squad ownership and instilling "you build it, you run it, you own it" as everyday culture. 
 
-Those legs of the trip began at HelloFresh, where I advanced from Senior Software Engineer to Head of Engineering. Together with an incredible crew I shepherded the leap from monolithic PHP to cloud-native Go services, cracked the 100-engineer scale and let Fridays remain "friday-beers" days—not crunch sessions.
+Those legs of the trip began at [HelloFresh](https://hellofresh.com), where I advanced from Senior Software Engineer to Head of Engineering. Together with an incredible crew I shepherded the leap from monolithic PHP to cloud-native Go services, cracked the 100-engineer scale and let Fridays remain "friday-beers" days—not crunch sessions.
 
 All of it arcs back to my formative years in Brazil: seven years that carried me from junior enthusiast to technical lead, and taught me that the best systems and the best teams thrive when knowledge travels faster than code. 
 
